@@ -127,7 +127,7 @@ def plotDblBar(keyvalue, data):
     #labels
     ax.set_xlabel(keyvalue)
     ax.set_ylabel('games')
-    ax.set_title('i love cunny uoohhh')
+    ax.set_title('among us')
     ax.legend()
 
     plt.show()
